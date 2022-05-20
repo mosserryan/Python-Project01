@@ -81,7 +81,6 @@ def confirm():
             print(f'You typed "{userInput}", that is not a valid input, please choose a valid input.')
             
     
-
 def main():
     chooseName()
     chooseRace()
@@ -90,8 +89,6 @@ def main():
 
 main()
 
-# print("\nExiting program now.\n")
-# print(f'\n You wrote "{userInput}", that is not a valid input.\n')
-
+#TODO
 #Give user ability to go back to a chosen Name, Race, or Class at the end instead of repeating whole process.
 #Give user ability to go back in general (before reaching confirmation stage).
