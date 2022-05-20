@@ -1,2 +1,3 @@
 # Python-Project01
-First python project, if else user input practice project.
+
+First python project, using if else logic along with user input.
